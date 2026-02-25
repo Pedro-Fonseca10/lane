@@ -319,7 +319,7 @@ export function Puzzle() {
                       : undefined,
                   }}
                 >
-                  <span>{piece + 1}</span>
+                  {/* <span>{piece + 1}</span> */}
                 </button>
               );
             })}
